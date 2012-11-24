@@ -1,0 +1,74 @@
+
+@font-face
+  font-family "spinnaker"
+  src url(../fonts/spinnaker.woff) format("woff")
+
+body
+  background hsl(0,0,13)
+  color hsl(0,0,70)
+  font-family "spinnaker"
+  font-size 16px
+  margin 0px
+
+*
+  box-sizing border-box
+
+pre, code
+  font-family "droid sans mono", "monospace"
+
+#navigation
+  background hsla(0,0,20,0.8)
+  padding 8px
+  box-shadow 0px 0px 3px hsl(0,0,80)
+  position fixed
+  top 0px
+  width 100%
+  z-index 99
+
+  // #center
+  //  max-width 1000px
+  //  margin 0px auto
+
+  a
+    margin 0px 10px
+    display inline-block
+    text-decoration none
+    color hsl(0,0,60)
+
+.section
+  position relative
+  padding 20px 0px
+
+  .link
+    position absolute
+    right 0px
+    top 0px
+    background hsla(240,100,70,0.3)
+    color hsl(240,100,80)
+    padding 8px
+    border-radius 3px
+
+  a
+    text-decoration none
+    color hsl(0,0,60)
+    display block
+    line-height 26px
+
+    &:hover
+      color white
+
+#wrap
+  top 40px
+  padding 100px 20px
+  // max-width 1000px
+  // margin 0px auto
+  .anchor
+    display block
+    height 40px
+    width 1px
+
+#comments
+  padding 200px 0px
+
+  .section
+    padding 100px 0px 0px 0px
