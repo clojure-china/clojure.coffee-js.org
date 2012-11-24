@@ -19,7 +19,7 @@ Resources page here: http://coffee-js.github.com/clojure-learning/cljs/page/inde
 The styles of it took a lot of inspiration from the screenshots of [Light Table][light-table].  
 ![template](http://www.chris-granger.com/images/020/code.png)
 
-[light-table]: http://www.chris-granger.com/2012/11/05/meet-the-new-light-table/
+[light-table]: http://coffee-js.github.com/clojure-learning/page/index.html
 
 ### Add links here..
 
