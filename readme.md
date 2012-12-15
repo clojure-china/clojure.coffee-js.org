@@ -15,7 +15,7 @@ Clojure 关于语言特性网上的资源很丰富了, 而教程相对较少
 
 # Resources Page
 
-Resources page here: http://coffee-js.github.com/clojure-learning/cljs/page/index.html  
+Resources page here: http://coffee-js.github.com/clojure-learning/page/index.html  
 The styles of it took a lot of inspiration from the screenshots of [Light Table][light-table].  
 ![template](http://www.chris-granger.com/images/020/code.png)
 
